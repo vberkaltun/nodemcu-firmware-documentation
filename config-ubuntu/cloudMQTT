@@ -1,0 +1,7 @@
+Server					m23.cloudmqtt.com
+User					zoigztfs
+Password				JBr9hkq2N6wN
+Port					12776
+SSL Port				22776
+Websockets Port (TLS only)		32776
+Connection limit			25
