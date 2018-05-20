@@ -1,0 +1,2 @@
+mosquitto -d
+sudo service mosquitto restart
