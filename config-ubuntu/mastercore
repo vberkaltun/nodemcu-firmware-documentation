@@ -1,0 +1,6 @@
+#define MQTT_USER 			"vberkaltun"
+#define MQTT_PASSWORD 			"4gJUAdMpRFrDEf7K"
+#define MQTT_SERVER 			"m23.cloudmqtt.com"
+#define MQTT_PORT 			12776
+#define WIFI_SSID 			"iot.test"
+#define WIFI_PASSWORD 			"12345678"
